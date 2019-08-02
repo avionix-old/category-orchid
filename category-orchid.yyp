@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "a91f496a-f427-4a7f-bf03-329555a7de36",
+            "Value": {
+                "id": "4978ffbf-e10c-44bf-9fde-941b32388f4f",
+                "resourcePath": "scripts\\massgrav_script\\massgrav_script.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "be3cfd86-ad17-4094-83c7-0b289119af73",
             "Value": {
                 "id": "18653c49-f0b2-4695-8eef-bb36c335347e",
@@ -232,7 +240,8 @@
         }
     ],
     "script_order": [
-        "48a6c3aa-aa43-4047-a666-ce406790a571"
+        "48a6c3aa-aa43-4047-a666-ce406790a571",
+        "a91f496a-f427-4a7f-bf03-329555a7de36"
     ],
     "tutorial": ""
 }

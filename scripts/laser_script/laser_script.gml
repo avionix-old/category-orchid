@@ -1,1 +1,2 @@
-testing 1
+/// @description Basic laser weapon operation
+
