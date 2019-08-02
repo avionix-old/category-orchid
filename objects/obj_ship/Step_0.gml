@@ -10,17 +10,18 @@ var vaxis = gamepad_axis_value(0, gp_axislv);
 
 
 
-image_angle = point_direction(0,0,haxis,vaxis)
 
 
-dir = image_angle 
+dir = point_direction(0,0,haxis,vaxis)
+
+
 
 if haxis != 0 or vaxis != 0 
 {
 	motion_add(dir,spd)
 }
 
-
+image_angle = direction 
 
 
 
