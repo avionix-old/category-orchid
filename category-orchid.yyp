@@ -82,7 +82,7 @@
             "Key": "48a6c3aa-aa43-4047-a666-ce406790a571",
             "Value": {
                 "id": "82cb8969-140c-4759-bf91-33db8e54b95a",
-                "resourcePath": "scripts\\laser_script\\laser_script.yy",
+                "resourcePath": "scripts\\scr_laserbend\\scr_laserbend.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -207,14 +207,6 @@
             }
         },
         {
-            "Key": "db35b0bd-90b6-4e12-a600-30e2a581d0ef",
-            "Value": {
-                "id": "76aeca69-3417-43a2-88d6-42b74aa4f7eb",
-                "resourcePath": "scripts\\script1\\script1.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "964b59d7-0b17-4c02-acc0-f40c77cb5bce",
@@ -256,8 +248,7 @@
         }
     ],
     "script_order": [
-        "48a6c3aa-aa43-4047-a666-ce406790a571",
-        "db35b0bd-90b6-4e12-a600-30e2a581d0ef"
+        "48a6c3aa-aa43-4047-a666-ce406790a571"
     ],
     "tutorial": ""
 }
