@@ -8,24 +8,12 @@ gamepad_set_axis_deadzone(0,0.5)
 var haxis = gamepad_axis_value(0, gp_axislh);
 var vaxis = gamepad_axis_value(0, gp_axislv);
 
-
-
-direction = point_direction(0, 0, haxis, vaxis);
-
-
-speed +=point_distance(0 ,0, haxis, vaxis) * 5;
+image_angle = point_direction(0,0,haxis,vaxis)
 
 
 
 
-if haxis = 0 and vaxis = 0 
-{
-	
-speed = 0 
-
-}
 
 
 
-image_angle = direction
 
