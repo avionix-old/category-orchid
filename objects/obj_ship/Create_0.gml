@@ -8,6 +8,6 @@ image_angle = direction
 
 // mass data
 
-const_mass = 1000
+ship_mass = 1000
 
 //
