@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_lasership",
     "eventList": [
-        
+        {
+            "id": "72681ac2-066a-4282-a38c-e44bff7e975b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "06b9b700-1aa9-41d9-b313-938b4dcf3f08"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
