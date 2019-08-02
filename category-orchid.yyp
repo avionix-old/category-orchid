@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "2defed25-c71b-48e4-a03b-b64cd779c412",
+            "Value": {
+                "id": "14156cf9-91a2-4914-88e6-61aef8056eeb",
+                "resourcePath": "scripts\\scr_laser\\scr_laser.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "32c8f829-dc79-48e8-9cca-5f127ef5e489",
             "Value": {
                 "id": "d4f142ca-bba5-4eee-94c6-6a767efa719f",
@@ -76,14 +84,6 @@
                 "id": "dd43fcfa-9ff1-4880-9542-d78d6c4d8d5d",
                 "resourcePath": "views\\46c0a346-6610-41d1-88dd-fffab5ccfbc1.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "48a6c3aa-aa43-4047-a666-ce406790a571",
-            "Value": {
-                "id": "82cb8969-140c-4759-bf91-33db8e54b95a",
-                "resourcePath": "scripts\\scr_laserbend\\scr_laserbend.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "c7653bdb-4eae-45be-9006-f48f6b3476ee",
+            "Value": {
+                "id": "073e3938-75c4-413f-89ff-6ddfbeef2eb3",
+                "resourcePath": "objects\\object2\\object2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "5347d6f6-8364-4117-a866-ac8450a8d735",
@@ -248,7 +256,7 @@
         }
     ],
     "script_order": [
-        "48a6c3aa-aa43-4047-a666-ce406790a571"
+        
     ],
     "tutorial": ""
 }
