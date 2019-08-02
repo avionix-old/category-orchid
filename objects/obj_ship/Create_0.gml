@@ -4,7 +4,7 @@
 spd = 1
 dir = 0
 
-
+controltoggle = 1 
 
 
 
