@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "06b9b700-1aa9-41d9-b313-938b4dcf3f08",
+            "Value": {
+                "id": "a9e3895b-f13f-438b-8dce-5972087e4627",
+                "resourcePath": "objects\\obj_lasership\\obj_lasership.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1ab10e1d-01a6-49c7-ac8d-b987385d9c82",
             "Value": {
                 "id": "6bd43baa-339b-4be4-b899-5c44763f36e9",
@@ -52,6 +60,14 @@
                 "id": "d4f142ca-bba5-4eee-94c6-6a767efa719f",
                 "resourcePath": "views\\32c8f829-dc79-48e8-9cca-5f127ef5e489.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "459f0865-ca0d-4335-81e0-371ceddf0c3e",
+            "Value": {
+                "id": "aaf7e7a1-4420-48b0-9181-ac43acf536cf",
+                "resourcePath": "sprites\\spr_lasership\\spr_lasership.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -159,14 +175,6 @@
             }
         },
         {
-            "Key": "a91f496a-f427-4a7f-bf03-329555a7de36",
-            "Value": {
-                "id": "4978ffbf-e10c-44bf-9fde-941b32388f4f",
-                "resourcePath": "scripts\\massgrav_script\\massgrav_script.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "be3cfd86-ad17-4094-83c7-0b289119af73",
             "Value": {
                 "id": "18653c49-f0b2-4695-8eef-bb36c335347e",
@@ -196,6 +204,14 @@
                 "id": "d35b5f57-5ef9-4511-a7ae-cc9fd22e3506",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "db35b0bd-90b6-4e12-a600-30e2a581d0ef",
+            "Value": {
+                "id": "76aeca69-3417-43a2-88d6-42b74aa4f7eb",
+                "resourcePath": "scripts\\script1\\script1.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -241,7 +257,7 @@
     ],
     "script_order": [
         "48a6c3aa-aa43-4047-a666-ce406790a571",
-        "a91f496a-f427-4a7f-bf03-329555a7de36"
+        "db35b0bd-90b6-4e12-a600-30e2a581d0ef"
     ],
     "tutorial": ""
 }
