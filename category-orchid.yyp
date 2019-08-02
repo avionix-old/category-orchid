@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "48a6c3aa-aa43-4047-a666-ce406790a571",
+            "Value": {
+                "id": "82cb8969-140c-4759-bf91-33db8e54b95a",
+                "resourcePath": "scripts\\laser_script\\laser_script.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "4f2d938c-d45f-4fe6-8855-17a28517e79a",
             "Value": {
                 "id": "7e73d2d1-a95a-4f34-b1e9-a0d3975a1906",
@@ -224,7 +232,7 @@
         }
     ],
     "script_order": [
-        
+        "48a6c3aa-aa43-4047-a666-ce406790a571"
     ],
     "tutorial": ""
 }
