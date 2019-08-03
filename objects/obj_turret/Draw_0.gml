@@ -4,6 +4,7 @@
 if controltoggle = 1
 {
 	scr_draw_laser(x,y,image_angle)
+	frame++
 }
 
 //don't forget to draw self

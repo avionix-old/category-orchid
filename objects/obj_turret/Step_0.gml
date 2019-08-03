@@ -8,6 +8,7 @@ scr_input()
 
 if controltoggle = 1 
 {
+	
 	var h_point = gamepad_axis_value(0, gp_axislh);
 	var v_point = gamepad_axis_value(0, gp_axislv);
 	
@@ -20,4 +21,9 @@ if controltoggle = 1
 }
 
 
-if keytoggle controltoggle = controltoggle * -1 
+if keytoggle 
+
+{
+	frame = 0
+controltoggle = controltoggle * -1 
+}
