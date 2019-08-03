@@ -1,7 +1,7 @@
 /// @description Creatify me
 // You can write your code in this edi
 
-spd = 1
+spd = 0.4
 dir = 0
 
 controltoggle = 1 

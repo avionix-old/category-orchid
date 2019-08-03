@@ -1,7 +1,11 @@
 /// @description Insert description here
 // You can write your code in this editor
-direction = irandom_range(0,359)
+homing = 0 
 
-speed=1
+alarm_set(0,45)
 
-randomize() 
+
+rotation_speed = 5
+
+	speed = 3
+	image_angle = direction
