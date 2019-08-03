@@ -29,7 +29,7 @@ image_angle = direction
 
 if speed > 40 speed = 40 
 
-if speed > 0 speed -= .001
+if speed > 0 speed -= .01
 
 if speed < 0 speed = 0
 
