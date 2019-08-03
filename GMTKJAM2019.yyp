@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "3517a88a-2681-4346-8e89-1bc16f4ba057",
+            "Value": {
+                "id": "f257369e-6569-4352-bbd4-c6f34617c729",
+                "resourcePath": "objects\\obj_asteroid\\obj_asteroid.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3c0ebbe3-06f6-461b-8ee0-976b37479ec0",
             "Value": {
                 "id": "a24b61a1-c926-470b-98bb-42ff1826c117",
@@ -308,6 +316,14 @@
                 "id": "72f31b06-3488-4389-92e8-14fbb83b68e3",
                 "resourcePath": "objects\\obj_turret\\obj_turret.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fd831867-3a9f-4c05-94ae-ce3234a02d1d",
+            "Value": {
+                "id": "32f768d8-890d-44cd-a336-93b1daaa8133",
+                "resourcePath": "sprites\\spr_asteroid\\spr_asteroid.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
