@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "52beb68e-1b7c-480d-ab52-0084957223b7",
+            "Value": {
+                "id": "84573cd5-de8d-4f3d-97dc-790e69f801e3",
+                "resourcePath": "scripts\\scr_ship_location\\scr_ship_location.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "5edf24ca-4110-4ec0-9f65-d537de4abc27",
             "Value": {
                 "id": "fe86e2c2-aca9-4d59-84fa-374b22fb741d",
