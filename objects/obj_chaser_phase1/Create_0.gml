@@ -6,5 +6,6 @@ speed=1
 
 randomize() 
 
+//acts as asteroid on spawn but has deadly secret 
 
 

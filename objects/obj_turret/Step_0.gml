@@ -8,7 +8,7 @@ scr_input()
 
 if controltoggle = 1 
 {
-	
+	// point at stick, snap to 8 directions when not in use
 	var h_point = gamepad_axis_value(0, gp_axislh);
 	var v_point = gamepad_axis_value(0, gp_axislv);
 	
@@ -22,7 +22,7 @@ if controltoggle = 1
 
 
 if keytoggle 
-
+// start laser aniamtion on toggle 
 {
 	frame = 0
 controltoggle = controltoggle * -1 

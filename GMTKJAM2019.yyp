@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "39030f06-fc47-4066-953c-0a7d6f241f54",
+            "Value": {
+                "id": "18a7e8d2-8243-4cfe-b319-aa2f53c6caab",
+                "resourcePath": "sprites\\spr_ufo\\spr_ufo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3c0ebbe3-06f6-461b-8ee0-976b37479ec0",
             "Value": {
                 "id": "a24b61a1-c926-470b-98bb-42ff1826c117",
@@ -292,6 +300,14 @@
                 "id": "9261541c-d881-4bd4-9f15-622b7f67cb21",
                 "resourcePath": "views\\b2782141-dc10-44c4-aec8-a25541670338.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b4b29dd8-e97b-4e60-a3a8-6dd2470371cf",
+            "Value": {
+                "id": "f45bf3f4-254b-4adf-a0e0-5c9b0b0a4ea7",
+                "resourcePath": "objects\\obj_bullet_saucer\\obj_bullet_saucer.yy",
+                "resourceType": "GMObject"
             }
         },
         {

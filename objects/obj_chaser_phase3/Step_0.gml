@@ -18,3 +18,5 @@ else
 	speed = 3
 	image_angle = direction
 }
+
+//same as last phase but faster 

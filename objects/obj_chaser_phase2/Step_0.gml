@@ -21,3 +21,4 @@ else
 	image_angle = direction - 90
 }
 
+//move set direction until alarm enables homing 

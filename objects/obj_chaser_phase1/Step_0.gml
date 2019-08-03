@@ -3,3 +3,5 @@
 move_wrap(true,true,sprite_width/2)
 
 image_angle = direction 
+
+//still actig as astroid 

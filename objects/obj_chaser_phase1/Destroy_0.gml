@@ -15,3 +15,5 @@ with instance_create_depth(x+lengthdir_x(20,image_angle+60),y+lengthdir_y(20,ima
 {
 	direction = obj_chaser_phase1.image_angle + 60 
 }
+
+//spawn next phase on death 
