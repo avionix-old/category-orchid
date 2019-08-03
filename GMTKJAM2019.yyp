@@ -63,11 +63,27 @@
             }
         },
         {
+            "Key": "2703027a-9281-4994-8c7b-2fc5615866c8",
+            "Value": {
+                "id": "1598bb9f-c053-4626-93f1-bdd6400ccd01",
+                "resourcePath": "objects\\obj_bullet\\obj_bullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "288fe7e5-43a8-42d5-afd8-6fc798e35c2d",
             "Value": {
                 "id": "41cebf15-7883-496d-844a-80edf8998c70",
                 "resourcePath": "views\\288fe7e5-43a8-42d5-afd8-6fc798e35c2d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2de4c107-373f-49f4-8cc7-c77555092b55",
+            "Value": {
+                "id": "9792929c-c905-4236-9c3d-bbfd6d2cd876",
+                "resourcePath": "objects\\obj_target\\obj_target.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -83,6 +99,14 @@
             "Value": {
                 "id": "18a7e8d2-8243-4cfe-b319-aa2f53c6caab",
                 "resourcePath": "sprites\\spr_ufo\\spr_ufo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3c0e1731-c347-412d-96a8-b4102c92935a",
+            "Value": {
+                "id": "ec17e282-0ad2-47f3-a3d9-c55f50d4d8f0",
+                "resourcePath": "sprites\\spr_farstars\\spr_farstars.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -167,6 +191,14 @@
             }
         },
         {
+            "Key": "6b6ad759-ca91-41a9-ac91-87bed315f8c7",
+            "Value": {
+                "id": "67b7895d-5d73-436d-9ba3-3235717b01db",
+                "resourcePath": "views\\6b6ad759-ca91-41a9-ac91-87bed315f8c7.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "73538ef6-6894-4b1f-82d6-08c4fd71ed0a",
             "Value": {
                 "id": "bad2d052-65ea-4f90-b5bf-3f8372be8abb",
@@ -228,6 +260,14 @@
                 "id": "6b1b9992-d832-42eb-9e1d-a9a75947099a",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "9dfd505b-ffa2-4b64-9482-8f8d2ca2ee71",
+            "Value": {
+                "id": "c6abedd6-f26e-4c26-8fa4-79d452f7f193",
+                "resourcePath": "sprites\\spr_laser_mask\\spr_laser_mask.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -327,6 +367,14 @@
             }
         },
         {
+            "Key": "c4ed403d-ccb4-47ab-8784-6b5f25411409",
+            "Value": {
+                "id": "2939a9c4-5031-450c-8518-f828686bd125",
+                "resourcePath": "objects\\obj_laser_mask\\obj_laser_mask.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "cf444d7a-b7fc-4d8d-bdd8-2e8e5dc767d7",
@@ -340,6 +388,14 @@
                 "id": "e07bd8ef-ac04-4641-b18f-15c8486fce11",
                 "resourcePath": "sprites\\spr_laser_end\\spr_laser_end.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d2dc5ec8-25cc-4879-b67d-f4fa24cea7b3",
+            "Value": {
+                "id": "5eb41e4d-0084-4bd8-bb10-3d30734e9ccd",
+                "resourcePath": "objects\\obj_camera\\obj_camera.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -404,6 +460,14 @@
                 "id": "9002aa2d-2ecb-4cd2-a325-d80f655960d6",
                 "resourcePath": "objects\\obj_chaser_phase2\\obj_chaser_phase2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ef861aae-6821-4ad9-9852-b691aadb706c",
+            "Value": {
+                "id": "99ceaa7d-9325-4a8d-97cc-fb30b7c351c8",
+                "resourcePath": "sprites\\spr_bullet\\spr_bullet.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

@@ -1,48 +1,28 @@
 {
-    "id": "fac127b8-b192-4e40-9611-6a50a44d29b3",
+    "id": "2703027a-9281-4994-8c7b-2fc5615866c8",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_turret",
+    "name": "obj_bullet",
     "eventList": [
         {
-            "id": "e98b47f2-162a-4189-b14b-164113d47505",
+            "id": "5b0fd01f-feff-4877-aac8-d1dc31abc290",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "fac127b8-b192-4e40-9611-6a50a44d29b3"
+            "m_owner": "2703027a-9281-4994-8c7b-2fc5615866c8"
         },
         {
-            "id": "4856ca76-47ef-4241-a591-117c44362a88",
+            "id": "62aeffde-c527-4638-b40a-58a1ea198cdd",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "fac127b8-b192-4e40-9611-6a50a44d29b3"
-        },
-        {
-            "id": "53f3b6e9-63fe-4e43-9a60-a1d68ce8d4aa",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "fac127b8-b192-4e40-9611-6a50a44d29b3"
-        },
-        {
-            "id": "22f85c29-6a4a-4edc-9af0-5bea3187551f",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 2,
-            "m_owner": "fac127b8-b192-4e40-9611-6a50a44d29b3"
+            "m_owner": "2703027a-9281-4994-8c7b-2fc5615866c8"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -63,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "a50636fa-21df-4f8f-9137-a1e1112d7b93",
+    "spriteId": "ef861aae-6821-4ad9-9852-b691aadb706c",
     "visible": true
 }
