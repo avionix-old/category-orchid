@@ -26,6 +26,13 @@ if controltoggle = 1
 	}
 
 }
+else 
+{
+	if !audio_is_playing(snd_laser_main)	audio_play_sound(snd_laser_main,10,false)
+	{		
+				
+	}	
+}
 
 // face where we are going
 image_angle = direction 
@@ -38,9 +45,22 @@ if speed > 0 speed -= .01
 //makingsure we never hit negative speeds
 if speed < 0 speed = 0
 // toggle the controls
+
+
+
 if keytoggle 
 {
 	controltoggle = controltoggle * -1 
+	
+	audio_stop_sound(snd_laser_main)
+	
+	if audio_is_playing(snd_laser_falloff) audio_stop_sound(snd_laser_falloff)
+	audio_play_sound(snd_laser_falloff,10,false)
+	
+	
+	
+	
+	
 }
 
 

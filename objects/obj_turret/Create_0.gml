@@ -17,3 +17,5 @@ frame = 0
 damage = 2
 fire_rate= 10 
 length = 0
+
+intro = 0

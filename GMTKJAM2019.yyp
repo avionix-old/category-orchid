@@ -119,11 +119,27 @@
             }
         },
         {
+            "Key": "2b0e7aa5-b1f4-4278-863c-119733948e26",
+            "Value": {
+                "id": "24a743d8-fa33-455f-9b85-93133ef8fe8f",
+                "resourcePath": "sounds\\snd_laser_main\\snd_laser_main.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "2de4c107-373f-49f4-8cc7-c77555092b55",
             "Value": {
                 "id": "9792929c-c905-4236-9c3d-bbfd6d2cd876",
                 "resourcePath": "objects\\obj_target\\obj_target.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2fc02bc8-7966-4d4e-8284-19f5a8435d79",
+            "Value": {
+                "id": "b5f48a04-03bb-4564-8a93-4381e6d1f72c",
+                "resourcePath": "sounds\\snd_laser_falloff\\snd_laser_falloff.yy",
+                "resourceType": "GMSound"
             }
         },
         {
