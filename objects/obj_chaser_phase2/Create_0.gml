@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 
-hpts = 100
+hpts = 80
 
 homing = 0 
 
@@ -13,3 +13,5 @@ rotation_speed = 3
 
 	speed = 2
 	image_angle = direction - 90
+	
+	damage = 30

@@ -24,3 +24,10 @@ with instance_create_depth(x+lengthdir_x(20,image_angle+60),y+lengthdir_y(20,ima
 
 
 //spawn next phase on death 
+
+
+audio_stop_all()
+
+audio_play_sound(snd_ships_boom,5,false)
+
+instance_create_depth(x,y,-100,obj_boom)

@@ -12,6 +12,7 @@ speed=1
 
 //acts as asteroid on spawn but has deadly secret 
 
-hpts = 500
+hpts = 160
 
 
+damage = 10 

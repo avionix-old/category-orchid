@@ -21,6 +21,27 @@ var pd = point_direction(x, y, x + lengthdir_x(64, dir), y + lengthdir_y(64, dir
 move_wrap(true,true,sprite_width)
 
 
+if place_meeting(x,y,obj_asteroid)
+{
+instance_destroy(self)
+instance_destroy(other)
+}
 
 
+if place_meeting(x,y,obj_ship)
+{
+	instance_destroy(self)
+}
+
+
+
+if place_meeting(x,y,obj_laser_mask)
+{
+	hpts -= obj_laser_mask.damage
+}
+
+if hpts < 0 
+{
+instance_destroy(self)	
+}
 

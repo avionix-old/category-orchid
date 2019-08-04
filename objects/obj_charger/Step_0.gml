@@ -99,10 +99,58 @@ if fire = 1
 		{
 			image_angle=other.image_angle
 			image_xscale=other.length+120
-			damage = other.damage
+			astdamage = other.astdamage
+			playerdamage = other.astdamage
 			
-					
-			
+
 		}
+		
+		audio_stop_sound(snd_targetlaser)
+		
+				if !audio_is_playing(snd_enemylaser) 
+			{
+				audio_play_sound(snd_enemylaser,11,true)	
+				audio_sound_pitch(snd_enemylaser,  .5);
+			}
 }
 
+
+if fire = 0
+{
+	audio_stop_sound(snd_targetlaser)
+	
+	if targetingalpha > 0
+	{
+		if !audio_is_playing(snd_targetlaser) audio_play_sound(snd_targetlaser,11,true)
+		audio_sound_pitch(snd_targetlaser,  targetingalpha);
+	}
+	else 
+	{
+	audio_stop_sound(snd_targetlaser)
+	}
+}
+
+
+if place_meeting(x,y,obj_asteroid)
+{
+instance_destroy(self)
+instance_destroy(other)
+}
+
+
+
+if place_meeting(x,y,obj_ship)
+{
+	instance_destroy(self)
+}
+
+
+if place_meeting(x,y,obj_laser_mask)
+{
+	hpts -= obj_laser_mask.damage
+}
+
+if hpts<0 
+{
+instance_destroy(self)	
+}

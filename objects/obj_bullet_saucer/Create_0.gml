@@ -14,6 +14,9 @@ rotation_speed=4
 
 speed=4 
 
+hpts = 35
+
+damage = 30
 
 
 
@@ -22,6 +25,5 @@ speed=4
 
 
 
-
-instance_create_depth(x,y,10,obj_ufo_turret)
+instance_create_depth(x,y,-10,obj_ufo_turret)
 

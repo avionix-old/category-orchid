@@ -9,3 +9,8 @@ keyup = -(keyboard_check(ord("W")) or gamepad_button_check(0,gp_padu) or sign(ga
 keydown = keyboard_check(ord("S")) or gamepad_axis_value(0,gp_axislv) > 0 or gamepad_button_check(0,gp_padd)
 
 keytoggle = gamepad_button_check_pressed(0,gp_face1) or keyboard_check_pressed(vk_space)
+
+
+
+
+

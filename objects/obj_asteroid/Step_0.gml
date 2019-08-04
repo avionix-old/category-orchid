@@ -19,5 +19,19 @@ if place_meeting(x,y,obj_laser_mask)
 
 if place_meeting(x,y,obj_laser_mask_enemy_damage)
 {
-	hpts -= obj_laser_mask_enemy_damage.damage
+	hpts -= obj_laser_mask_enemy_damage.astdamage
 }
+
+if place_meeting(x,y,obj_bullet)
+{
+	hpts -= obj_bullet.damage
+}
+
+if place_meeting(x,y,obj_ship)
+{
+	instance_destroy(self)
+}
+
+
+
+speed =1

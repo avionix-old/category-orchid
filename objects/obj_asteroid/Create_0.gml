@@ -9,4 +9,6 @@ randomize()
 // random direction seed and det speed
 
 
-hpts = 100 
+hpts = 20
+
+damage = 10

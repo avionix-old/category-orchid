@@ -9,3 +9,9 @@ with instance_create_depth(x+lengthdir_x(13,image_angle),y+lengthdir_y(13,image_
 {
 	direction = obj_chaser_phase2.image_angle 
 }
+
+
+audio_stop_all()
+
+audio_play_sound(snd_ships_boom,5,false)
+instance_create_depth(x,y,-100,obj_boom)

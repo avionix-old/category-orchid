@@ -1,4 +1,4 @@
-/// @description Creatify me
+/// @description injlitializse
 // You can write your code in this edi
 
 
@@ -9,6 +9,8 @@ dir = 0
 
 //important vars 
 controltoggle = 1 
+
+hpts = 100 
 
 
 

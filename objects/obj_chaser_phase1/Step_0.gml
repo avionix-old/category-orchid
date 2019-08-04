@@ -19,12 +19,24 @@ if place_meeting(x,y,obj_laser_mask_enemy_damage)
 
 if hpts < 0 
 {
-
-
-with instance_create_depth(x,y,-10,obj_phase1_sep) 
-{
-	image_angle = other.image_angle
-	
+instance_destroy(self)
 }
-instance_destroy(self)	
+
+
+
+if place_meeting(x,y,obj_asteroid)
+{
+instance_destroy(self)
+instance_destroy(other)
+}
+
+
+if place_meeting(x,y,obj_ship)
+{
+	instance_destroy(self)
+}
+
+if place_meeting(x,y,obj_bullet)
+{
+	hpts -= obj_bullet.damage
 }
