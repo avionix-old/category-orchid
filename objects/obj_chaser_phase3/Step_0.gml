@@ -20,3 +20,20 @@ else
 }
 
 //same as last phase but faster 
+
+
+
+if place_meeting(x,y,obj_laser_mask)
+{
+	hpts -= obj_laser_mask.damage
+}
+
+if place_meeting(x,y,obj_laser_mask_enemy_damage)
+{
+	hpts -= obj_laser_mask_enemy_damage.damage
+}
+
+if hpts < 0 
+{
+instance_destroy(self)	
+}

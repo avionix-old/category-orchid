@@ -2,6 +2,8 @@
 // You can write your code in this editor
 
 
+hpts = 100
+
 homing = 0 
 
 alarm_set(0,45)

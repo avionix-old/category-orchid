@@ -9,3 +9,5 @@ rotation_speed = 5
 
 	speed = 3
 	image_angle = direction
+	
+	hpts = 100

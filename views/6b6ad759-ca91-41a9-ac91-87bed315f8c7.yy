@@ -6,7 +6,8 @@
     "children": [
         "b4b29dd8-e97b-4e60-a3a8-6dd2470371cf",
         "2de4c107-373f-49f4-8cc7-c77555092b55",
-        "2703027a-9281-4994-8c7b-2fc5615866c8"
+        "2703027a-9281-4994-8c7b-2fc5615866c8",
+        "055a4d0d-9c71-4eb7-a4db-f9d304245ce2"
     ],
     "filterType": "GMObject",
     "folderName": "shooter",

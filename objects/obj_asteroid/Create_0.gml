@@ -7,3 +7,6 @@ speed=1
 randomize() 
 
 // random direction seed and det speed
+
+
+hpts = 100 

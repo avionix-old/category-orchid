@@ -14,9 +14,3 @@ controltoggle = 1
 
 
 
-// mass data
-
-ship_mass = 1000
-
-//
-

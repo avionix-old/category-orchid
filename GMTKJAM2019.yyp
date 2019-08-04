@@ -39,11 +39,35 @@
             }
         },
         {
+            "Key": "055a4d0d-9c71-4eb7-a4db-f9d304245ce2",
+            "Value": {
+                "id": "e0aa9f83-aa0b-40f0-ae01-a2eb148939e8",
+                "resourcePath": "objects\\obj_ufo_turret\\obj_ufo_turret.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "098e4d90-de90-4a08-ae98-206e5a3e50a2",
             "Value": {
                 "id": "14eb25e1-693a-456c-9cc8-af9b18ab3162",
                 "resourcePath": "sprites\\spr_chaser_phase2_3\\spr_chaser_phase2_3.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "09b2e177-60d5-49d6-bacc-a21a70b56f4b",
+            "Value": {
+                "id": "e751f379-1e51-4b12-aca3-0a39204b039e",
+                "resourcePath": "sprites\\spr_laser_enemy\\spr_laser_enemy.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0cc1b947-0849-4fa5-8a00-6320f9c9ea45",
+            "Value": {
+                "id": "220458f3-c832-4693-92d3-e419fe56318a",
+                "resourcePath": "objects\\testspawner\\testspawner.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -60,6 +84,22 @@
                 "id": "1e498f8a-6a3d-413e-a9f0-69b64f3b8a1f",
                 "resourcePath": "sprites\\spr_chaser_phase1\\spr_chaser_phase1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1bd93ee0-7b92-4b5e-be77-859424cb7a67",
+            "Value": {
+                "id": "8ec601b5-6673-468d-8a08-d0fc190d145c",
+                "resourcePath": "sprites\\spr_chaser_phase1_sep\\spr_chaser_phase1_sep.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "25ee3f45-5f85-4d7f-a7eb-72a63304e196",
+            "Value": {
+                "id": "9f75ca45-79a7-4ca4-a63d-707527488abd",
+                "resourcePath": "objects\\obj_charger\\obj_charger.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -84,6 +124,14 @@
                 "id": "9792929c-c905-4236-9c3d-bbfd6d2cd876",
                 "resourcePath": "objects\\obj_target\\obj_target.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "30b75066-04ed-4fef-af9e-d9115f431fc0",
+            "Value": {
+                "id": "4110d0a4-f635-4d17-928e-c9bff05c03de",
+                "resourcePath": "sprites\\spr_ufo_turret\\spr_ufo_turret.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -143,19 +191,27 @@
             }
         },
         {
-            "Key": "4a116872-3329-4ab9-b23c-3d2bbf855a3f",
-            "Value": {
-                "id": "2880dd22-9134-47ac-a0e0-6ddfda49521f",
-                "resourcePath": "sprites\\spr_enemy1\\spr_enemy1.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "4a2497d9-84ba-4edc-931e-f3bf27b4fcae",
             "Value": {
                 "id": "eb712cdf-5602-4962-bf1f-472aed64ef80",
                 "resourcePath": "sprites\\spr_block\\spr_block.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4bfeee92-fc45-442e-9b7b-e2f7a05f5960",
+            "Value": {
+                "id": "82dff0f0-ab4d-4199-bd8c-e233ded3ec83",
+                "resourcePath": "objects\\obj_laser_mask_enemy\\obj_laser_mask_enemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4ec3ba59-5526-457f-ad60-a852e0d21a8b",
+            "Value": {
+                "id": "6bcb1ddf-fca7-421e-90f2-5505e720962d",
+                "resourcePath": "objects\\obj_phase1_sep\\obj_phase1_sep.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -183,10 +239,26 @@
             }
         },
         {
+            "Key": "5da3fdd3-a0d3-482a-bbcd-74a88d69da00",
+            "Value": {
+                "id": "95eeed4b-4e78-4719-a95a-eff5573f5d47",
+                "resourcePath": "views\\5da3fdd3-a0d3-482a-bbcd-74a88d69da00.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "5edf24ca-4110-4ec0-9f65-d537de4abc27",
             "Value": {
                 "id": "fe86e2c2-aca9-4d59-84fa-374b22fb741d",
                 "resourcePath": "objects\\obj_ship\\obj_ship.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6a6d588a-8858-4417-8676-a25d77d29d2a",
+            "Value": {
+                "id": "b829f2a1-531e-41b8-91cd-7304ddba4878",
+                "resourcePath": "objects\\obj_laser_mask_enemy_damage\\obj_laser_mask_enemy_damage.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -239,6 +311,14 @@
             }
         },
         {
+            "Key": "806555c1-c883-4c26-aec6-e567ba5bf50a",
+            "Value": {
+                "id": "cbc0fa42-964e-460e-ab62-a70a11e6ee36",
+                "resourcePath": "scripts\\scr_draw_laser_enemy_targeting\\scr_draw_laser_enemy_targeting.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "837e9a0e-7b28-4ad5-bc9d-c8984d760053",
             "Value": {
                 "id": "92d3956f-6889-4fb3-8d12-532d94c16faa",
@@ -284,6 +364,14 @@
                 "id": "1d0d738e-a6c2-42c8-9b7d-7fe756e81d1f",
                 "resourcePath": "views\\a25c4e1b-92e7-461d-84d2-bdc6d51666a9.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a2982baf-dad1-4450-ac2f-b463673d114f",
+            "Value": {
+                "id": "0d66a77f-83cd-4e52-b760-a27aea669411",
+                "resourcePath": "sprites\\spr_laser_enemy_target\\spr_laser_enemy_target.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -391,6 +479,14 @@
             }
         },
         {
+            "Key": "d1debfdd-3569-4b59-830c-5aba01333ec8",
+            "Value": {
+                "id": "61f9009e-7676-494b-bbb5-725ac5cd9591",
+                "resourcePath": "sprites\\spr_ufo_charge\\spr_ufo_charge.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d2dc5ec8-25cc-4879-b67d-f4fa24cea7b3",
             "Value": {
                 "id": "5eb41e4d-0084-4bd8-bb10-3d30734e9ccd",
@@ -407,6 +503,14 @@
             }
         },
         {
+            "Key": "da95d78b-b9f2-4323-8169-441b98106a69",
+            "Value": {
+                "id": "dfd76a70-6a3b-4717-9100-f9623e5e1143",
+                "resourcePath": "sprites\\spr_enemytarget\\spr_enemytarget.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "dc14820a-c916-453e-8de3-e779353e0982",
             "Value": {
                 "id": "14dc938a-b1a9-47d2-bd06-93f05e10be6d",
@@ -420,6 +524,14 @@
                 "id": "1db3dfed-4fcb-4483-8a1c-3bb27c5ccb6b",
                 "resourcePath": "objects\\obj_chaser_phase3\\obj_chaser_phase3.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e6f984bd-a654-418a-91f1-b9baddaebe06",
+            "Value": {
+                "id": "285db071-b347-4255-bc08-22b56da283ed",
+                "resourcePath": "scripts\\scr_draw_laser_enemy\\scr_draw_laser_enemy.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -471,11 +583,11 @@
             }
         },
         {
-            "Key": "efef3b14-e556-49d6-9031-5d6d43de3470",
+            "Key": "f2edf86f-ebd5-48b1-abdb-70cd7a4de9c7",
             "Value": {
-                "id": "fae2fa11-ed3c-4b5f-9191-2633fc67a806",
-                "resourcePath": "objects\\obj_enemy1\\obj_enemy1.yy",
-                "resourceType": "GMObject"
+                "id": "b8395c55-9b3e-4a00-b9ec-da5de1d6909a",
+                "resourcePath": "sprites\\spr_ufo_noturret\\spr_ufo_noturret.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -514,7 +626,9 @@
     "script_order": [
         "3c0ebbe3-06f6-461b-8ee0-976b37479ec0",
         "52beb68e-1b7c-480d-ab52-0084957223b7",
-        "44408b20-b224-4957-9249-1e4c78a4031d"
+        "44408b20-b224-4957-9249-1e4c78a4031d",
+        "e6f984bd-a654-418a-91f1-b9baddaebe06",
+        "806555c1-c883-4c26-aec6-e567ba5bf50a"
     ],
     "tutorial": ""
 }

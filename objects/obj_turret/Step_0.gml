@@ -19,8 +19,9 @@ if controltoggle = 1
 		with instance_create_depth(x,y,10,obj_laser_mask)
 		{
 			image_angle=other.image_angle
-			image_xscale=other.length
+			image_xscale=other.length+32
 			damage = other.damage
+			
 		}
 	}
 	
